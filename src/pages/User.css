@@ -1,0 +1,31 @@
+.user-heading{
+    text-align: center;
+    margin-top: 50px;
+}
+.user-heading-h{
+    margin: 0 0 15px 0;
+    font-size: 32px;
+}
+
+.user-heading hr{
+    width: 5%;
+    border: 1px solid red;
+    margin-bottom: 40px;
+}
+.user{
+    overflow-x: hidden;
+}
+.user-search{
+    margin-left: 900px;
+    margin-right: 0;
+}
+.user-table{
+    margin-right: 130px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.user-page{
+    padding-right: 250px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}

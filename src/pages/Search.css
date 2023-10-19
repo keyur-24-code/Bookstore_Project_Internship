@@ -1,0 +1,33 @@
+
+.imp{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(238, 233, 233);
+    height: 55px;
+    padding-left: 400px;
+    padding-top: 10px;
+    overflow-x: hidden;
+}
+.imp-1{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    border: 1px black solid;
+    
+}
+.h-related-list, .one-no{
+    background-color: #ffffff;
+    box-shadow: 0.5px 0.5px 4px 0.5px #838383;
+    border-radius: 4px;
+    z-index: 1;
+    width: 140%;
+}
+
+.one{
+    height: auto;
+    border-radius: 4px;
+}
+.one-no, .one-not{
+    padding: 15px;
+    margin: 0;
+}
+

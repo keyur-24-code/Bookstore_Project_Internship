@@ -1,0 +1,34 @@
+.header{
+    overflow-x: hidden;
+}
+
+.upperredline{
+    background-color: red;
+    height: 10px;
+    overflow-x: hidden;
+
+}
+.container{
+    margin-top: -5px;
+    height: 40px;
+    background-color: white;
+}
+
+.img1{
+    height: 50px;
+    
+
+}
+.header-right{
+    margin-left: 500px;
+    display: "flex";
+    justify-content: "flex-end";
+    align-Items: "center";
+}
+button{
+    width: 90.88px;
+    color: red;
+}
+
+
+

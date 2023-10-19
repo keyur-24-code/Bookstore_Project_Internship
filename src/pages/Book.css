@@ -1,0 +1,28 @@
+.heading{
+    text-align: center;
+    margin-top: 50px;
+}
+.heading-h{
+    margin: 0 0 15px 0;
+    font-size: 32px;
+}
+
+.heading hr{
+    width: 10%;
+    border: 1px solid red;
+    margin-bottom: 40px;
+}
+.table-search{
+    margin-left: 900px;
+    margin-right: 0;
+}
+.table-main{
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.table-page{
+    padding-right: 250px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
